@@ -6,6 +6,6 @@ The **CORAL-SDN Dashboard** is a flexible, web-based, and user-friendly GUI for 
 
 
 In order to use the Node Red dashboard the user should do the following:
-* 1) Install Node-Red in the Windows
-* 2) Install the following pallettes: **node-red-dashboard**, **node-red-node-email**, **node-red-node-feedparser**, **node-red-node-rbe**, **node-red-node-twitter**
-* 3) Import the Node Red Dashboard.json from clipboard
+* Install Node-Red in the Windows
+* Install the following pallettes: **node-red-dashboard**, **node-red-node-email**, **node-red-node-feedparser**, **node-red-node-rbe**, **node-red-node-twitter**
+* Import the Node Red Dashboard.json from clipboard
